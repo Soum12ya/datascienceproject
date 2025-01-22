@@ -2,7 +2,7 @@ from src.datascience.config.configuration import ConfigurationManager
 from src.datascience.components.data_validation import DataValiadtion
 from src.datascience import logger
 
-STAGE_NAME = "Data Validation stage"
+STAGE_NAME = "Data Validation Stage"
 
 class DataValidationTrainingPipeline:
     def __init__(self):
