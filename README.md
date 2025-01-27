@@ -1,7 +1,7 @@
 # Wine Quality Check - End to End Project with Deployment
 
-<img width="476" alt="Predict_01" src="https://github.com/user-attachments/assets/4574c2c1-3430-4995-93d6-20bd32c6a243" />
 <img width="397" alt="Input_01" src="https://github.com/user-attachments/assets/2a9b0e66-2908-40c6-9821-1fb8e972d07b" />
+<img width="476" alt="Predict_01" src="https://github.com/user-attachments/assets/4574c2c1-3430-4995-93d6-20bd32c6a243" />
 
 ### workflows--ML Pipeline
 
