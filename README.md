@@ -57,7 +57,7 @@ The dataset used for this project is the **Wine Quality Dataset**, available on 
 | `/predict` | POST | Predicts wine quality based on input features |
 
 ## 📝 License
-This project is licensed under the GNU License.
+This project is licensed under the GPL-3 License.
 
 ## 🤝 Contributing
 Feel free to contribute! Open issues, submit PRs, and improve the project.
